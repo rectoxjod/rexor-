@@ -1,0 +1,6 @@
+{
+  "name": "Rexor — Autonomous AI Data Analyst",
+  "description": "End-to-end automated data analytics agent that understands business problems, ingests and cleans raw datasets, runs statistical and SQL/Python analysis, builds interactive visualizations, and recommends measurable business actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
